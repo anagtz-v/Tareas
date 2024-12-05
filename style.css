@@ -1,0 +1,12 @@
+:root{
+    --color-primario:#04afd8;
+    --color-secundario: #50c8e8;
+    --bg:#04529f;
+    --text-size: 1.5rem;
+    --color-text: white; 
+}
+
+body{
+    font-family: "Zen Loop", cursive;
+    background-color: var(--bg);
+}
